@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/excel_tool/precache-manifest.e71fe38ea53ca001c5f03dcf57096cbf.js"
+  "/excel_tool/precache-manifest.583f0a9936e2c509e10fdb4f07195fba.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "excel_tool"});
